@@ -1,0 +1,14 @@
+.skills {
+    background: #08287254;
+    width: 1268px;
+    height: 312px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
+
+.skills img {
+    margin: 15px;
+}

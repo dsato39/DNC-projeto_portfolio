@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    padding-inline-start: 80px;
+    padding-inline-end: 80px;
+}
+
+.navbar li {
+    margin: 20px;
+}
+
+.navbar a {
+    color: aliceblue !important;
+}

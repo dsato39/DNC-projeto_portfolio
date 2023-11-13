@@ -1,0 +1,14 @@
+.presentation {
+    color: aliceblue;
+    text-align: left;
+    margin-left: 10%;
+    width: 728px;
+    margin-top: 5%;
+}
+
+.presentation p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+}
