@@ -1,5 +1,5 @@
 import styles from './Skills.module.css'
-import javascript from '/Users/Daniel Sato/Documents/Programação/DNC/Portfolio/portfolio/src/Image/javascript.svg'
+import javascript from '/Users/Daniel Sato/Documents/Programação/DNC/Portfolio/portfolio/src/Image/js.svg'
 import html5 from '/Users/Daniel Sato/Documents/Programação/DNC/Portfolio/portfolio/src/Image/html5.svg'
 import css3 from '/Users/Daniel Sato/Documents/Programação/DNC/Portfolio/portfolio/src/Image/css3.svg'
 import react from '/Users/Daniel Sato/Documents/Programação/DNC/Portfolio/portfolio/src/Image/react.svg'
