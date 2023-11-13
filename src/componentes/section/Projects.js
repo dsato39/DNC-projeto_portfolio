@@ -1,7 +1,7 @@
 import styles from './Projects.module.css'
 import Cards from '../section/Cards'
-import lpdnc from '../../Image/Projects/lpdnc.svg'
-import portfolio from '../../Image/Projects/portfolio.svg'
+import lpdnc from '../../Projects/lpdnc.svg'
+import portfolio from '../../Projects/portfolio.svg'
 
 function Projects () {
     return (
